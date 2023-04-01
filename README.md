@@ -1,4 +1,4 @@
-# Hakathon_BattleShip
+# Hakathon_BattleShip_Warriors
    Team Members: SriKarthik
                  Arup
                  Girish
